@@ -16,20 +16,6 @@ This project involves developing a comprehensive HR Analytics dashboard using Mi
 - **Data Cleaning and Preprocessing**: Microsoft Excel, Power BI Query Editor
 - **Data Visualization**: Microsoft Power BI
 
-## Data
-
-- **Original Dataset**: Contains over 80K records of HR-related data.
-- **Cleaned Dataset**: Reduced to 76K records after data cleaning and preprocessing.
-
-## Setup
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/hr-analytics-dashboard.git
-    ```
-2. Open the project in Microsoft Power BI.
-3. Connect the Power BI file to the cleaned dataset provided in the repository.
-
 ## Usage
 
 - Explore the various tabs on the dashboard for different insights:
@@ -41,16 +27,16 @@ This project involves developing a comprehensive HR Analytics dashboard using Mi
 ## Data Visualizations
 
 ### Entity Relationship Diagram
-![Entity Relationship Diagram](path/to/ERD_screenshot.png)
+![image](https://github.com/user-attachments/assets/22b28290-cf57-4883-b1ae-42c3be29703d)
 
 ### HR Analytics Overview
-![HR Analytics Overview](path/to/overview_screenshot.png)
+![image](https://github.com/user-attachments/assets/d4591fc2-be08-4023-8ef3-94beb07665a0)
 
 ### Demographics
-![Demographics](path/to/demographics_screenshot.png)
+<img width="825" alt="image" src="https://github.com/user-attachments/assets/f2e16c05-51cb-44c9-af41-557315dfb3fd">
 
 ### Performance Tracker
-![Performance Tracker](path/to/performance_tracker_screenshot.png)
+![image](https://github.com/user-attachments/assets/cc2cdacc-cdb5-455f-8c96-c4d31c7cec4d)
 
 ### Attrition
-![Attrition](path/to/attrition_screenshot.png)
+<img width="823" alt="image" src="https://github.com/user-attachments/assets/4b89da50-9ff7-455b-a62d-42498bb066a2">
