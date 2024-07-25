@@ -30,7 +30,7 @@ This project involves developing a comprehensive HR Analytics dashboard using Mi
 ![image](https://github.com/user-attachments/assets/22b28290-cf57-4883-b1ae-42c3be29703d)
 
 ### HR Analytics Overview
-![image](https://github.com/user-attachments/assets/d4591fc2-be08-4023-8ef3-94beb07665a0)
+![image](https://github.com/user-attachments/assets/907abe04-db04-4a03-a313-1267ddc40b1d)
 
 ### Demographics
 ![image](https://github.com/user-attachments/assets/1eeb65c5-fd2d-42e3-abd5-60056eea6249)
